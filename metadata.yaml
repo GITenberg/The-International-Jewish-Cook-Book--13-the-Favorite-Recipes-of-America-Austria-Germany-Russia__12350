@@ -1,0 +1,27 @@
+_repo: The-International-Jewish-Cook-Book--13-the-Favorite-Recipes-of-America-Austria-Germany-Russia__12350
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Greenbaum, Florence Kreisler
+    gutenberg_agent_id: '4330'
+    url: http://www.gutenberg.org/2009/agents/4330
+description: ''
+gutenberg_bookshelf:
+- Cookery
+- Judaism
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Jewish cooking'
+- GITenberg
+title: "The International Jewish Cook Book\r\n1600 Recipes According to the Jewish\
+  \ Dietary Laws with the Rules for Kashering;\r\nthe Favorite Recipes of America,\
+  \ Austria, Germany, Russia, France, Poland, Roumania, Etc., Etc."
+url: http://www.gutenberg.org/ebooks/12350
